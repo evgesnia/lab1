@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "/VvV84RN0WWMcpDXK9NRvfKzQw9hj3NWFu18hPAkQPawZL+i0vwjKPCCoPJSIk5Z5LcZ/ZFyq3z8mtJrznJlsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pingv\\OneDrive\\Рабочий стол\\ИБ\\lab1\\imgui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pingv\\.nuget\\packages\\clickabletransparentoverlay\\11.0.1\\clickabletransparentoverlay.11.0.1.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\imgui.net\\1.90.9.1\\imgui.net.1.90.9.1.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\sharpgen.runtime\\2.1.2-beta\\sharpgen.runtime.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\sharpgen.runtime.com\\2.1.2-beta\\sharpgen.runtime.com.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\sixlabors.fonts\\2.0.4\\sixlabors.fonts.2.0.4.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\sixlabors.imagesharp.drawing\\2.1.4\\sixlabors.imagesharp.drawing.2.1.4.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\vortice.d3dcompiler\\3.5.0\\vortice.d3dcompiler.3.5.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\vortice.direct3d11\\3.5.0\\vortice.direct3d11.3.5.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\vortice.directx\\3.5.0\\vortice.directx.3.5.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\vortice.dxgi\\3.5.0\\vortice.dxgi.3.5.0.nupkg.sha512",
+    "C:\\Users\\pingv\\.nuget\\packages\\vortice.mathematics\\1.7.8\\vortice.mathematics.1.7.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.1.5 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-rxmq-m78w-7wmc",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

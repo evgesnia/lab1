@@ -1,0 +1,66 @@
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.csproj.AssemblyReference.cache
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.AssemblyInfoInputs.cache
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.AssemblyInfo.cs
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.csproj.CoreCompileInputs.cache
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\imgui.exe
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\imgui.deps.json
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\imgui.runtimeconfig.json
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\imgui.pdb
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\ClickableTransparentOverlay.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\ImGui.NET.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\SharpGen.Runtime.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\Vortice.D3DCompiler.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\Vortice.Direct3D11.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\Vortice.DirectX.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\Vortice.DXGI.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\Vortice.Mathematics.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\bin\Debug\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.csproj.CopyComplete
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\refint\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.pdb
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\imgui.genruntimeconfig.cache
+C:\Users\pingv\OneDrive\Рабочий стол\иоэд\PictureImgui\obj\Debug\net8.0\ref\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\imgui.exe
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\imgui.deps.json
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\imgui.runtimeconfig.json
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\imgui.pdb
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\ClickableTransparentOverlay.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\ImGui.NET.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\SharpGen.Runtime.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\SharpGen.Runtime.COM.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\Vortice.D3DCompiler.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\Vortice.Direct3D11.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\Vortice.DirectX.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\Vortice.DXGI.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\Vortice.Mathematics.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\runtimes\linux-x64\native\libcimgui.so
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\runtimes\osx\native\libcimgui.dylib
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\runtimes\win-arm64\native\cimgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\runtimes\win-x64\native\cimgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\bin\Debug\net8.0\runtimes\win-x86\native\cimgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.csproj.AssemblyReference.cache
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.AssemblyInfoInputs.cache
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.AssemblyInfo.cs
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.csproj.CoreCompileInputs.cache
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.csproj.CopyComplete
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\refint\imgui.dll
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.pdb
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\imgui.genruntimeconfig.cache
+C:\Users\pingv\OneDrive\Рабочий стол\ИБ\Шифр цезаря\obj\Debug\net8.0\ref\imgui.dll
